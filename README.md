@@ -1,8 +1,8 @@
-# Prework - * Codepath IOS Prework App*
+# Prework - * Codepath IOS Prework App; Color Changer*
 
 Submitted by: **Daisy Fernandez-Reyes**
 
-**Codepath IOS Prework** is an app that... [TODO] 
+**Codepath IOS Prework** is an app thats main purpose and funcitonality is to familiarize the programmer (me)-  with the X Code environment while developing a IOS applicaiton that displays user name, instituion, and professional role (dream or current role). 
 
 Time spent: **10** hours spent in total
 
@@ -13,8 +13,6 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 

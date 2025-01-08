@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		ABB533452D2E3D550098A4F3 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = ABB533442D2E3D4C0098A4F3 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		ABB532F72D2E28790098A4F3 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -24,9 +28,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		ABB532E02D2E28750098A4F3 /* IOS101-prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS101-prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABB532F62D2E28790098A4F3 /* IOS101-preworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS101-preworkTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		ABB533002D2E28790098A4F3 /* IOS101-preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "IOS101-preworkUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		ABB532E02D2E28750098A4F3 /* IOS101-prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = "IOS101-prework.app"; path = "/Users/daisy/Documents/codepath-coursework/codepath-ios/prework/IOS101-prework/build/Debug-iphoneos/IOS101-prework.app"; sourceTree = "<absolute>"; };
+		ABB532F62D2E28790098A4F3 /* IOS101-preworkTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IOS101-preworkTests.xctest"; path = "/Users/daisy/Documents/codepath-coursework/codepath-ios/prework/IOS101-prework/build/Debug-iphoneos/IOS101-prework.app/PlugIns/IOS101-preworkTests.xctest"; sourceTree = "<absolute>"; };
+		ABB533002D2E28790098A4F3 /* IOS101-preworkUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = "IOS101-preworkUITests.xctest"; path = "/Users/daisy/Documents/codepath-coursework/codepath-ios/prework/IOS101-prework/build/Debug-iphoneos/IOS101-preworkUITests-Runner.app/PlugIns/IOS101-preworkUITests.xctest"; sourceTree = "<absolute>"; };
+		ABB533442D2E3D4C0098A4F3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -91,18 +96,8 @@
 				ABB532E22D2E28750098A4F3 /* IOS101-prework */,
 				ABB532F92D2E28790098A4F3 /* IOS101-preworkTests */,
 				ABB533032D2E28790098A4F3 /* IOS101-preworkUITests */,
-				ABB532E12D2E28750098A4F3 /* Products */,
+				ABB533442D2E3D4C0098A4F3 /* README.md */,
 			);
-			sourceTree = "<group>";
-		};
-		ABB532E12D2E28750098A4F3 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				ABB532E02D2E28750098A4F3 /* IOS101-prework.app */,
-				ABB532F62D2E28790098A4F3 /* IOS101-preworkTests.xctest */,
-				ABB533002D2E28790098A4F3 /* IOS101-preworkUITests.xctest */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -209,7 +204,7 @@
 			mainGroup = ABB532D72D2E28750098A4F3;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = ABB532E12D2E28750098A4F3 /* Products */;
+			productRefGroup = ABB532D72D2E28750098A4F3;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -225,6 +220,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ABB533452D2E3D550098A4F3 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
