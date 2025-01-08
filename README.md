@@ -36,13 +36,22 @@ photo editors instagram and tik tok have and (3), I really like the way pinteres
 the pinboard collection you create over a feed reccomendaiton as a whole- which is also nice, but its a lot more
 helpful when it comes to looking for specific art reference, ideas for hobbies, or guides. 
 
-Think of an app idea that you would like to build. It can be a new idea or an improvement on an existing app.:
-Write a short paragraph describing the app and the features you would like to implement. 
-You are not commiting to this idea, but it helps to start brain storming early on and get feedback from your peers
-and instructors.
+
+When it comes to thinking about any apps I'd like to develop, I'd like to develop an app that can help people
+start creative hobbies. Similar to what I use social media for now, I think it would be cool to have a space to
+create collections of the work and progress people make, it would be fun to have an app that you could put in
+what hobby you want to start, and the application reffers you to free online guides, and tutorials. When it comes to
+more hands on hobbies, it would be super cool to have an AR function where you can have a little animated person or guide on 
+how to do something next to you doing something. So like if I wanted to learn to paint better, I could follow an AR guide and
+in the Animation it would be a hand showing you where to paint or how to paint the picture. Like a mini Bob Ross. 
+If I was someone wanting to learn to crochet, the guide would show me how to make a pattern. If I was learning to play the guitaur it would
+show me where the my fingers would go on the guitaur etc. That would be cool, but I feel its a bit ambitious but it's something 
+I'd like ot be able to develop one day!
 
 ## Notes
-Building the app was very simple, the hardest part was creating anf pushing to the github repo
+Building the app was very simple - the pre-work guide was super helpful, so I didn't have too many issues with the project itself. 
+I did however have issues with the Github repository and learning to commit,push, pull, and fetch with the Xcode source control, but I 
+found a nice guide online- hooray! [online x code github guide] (https://medium.com/@nkemaiyetin/how-to-create-new-repos-in-xcode-f1f41b98dd09)
 
 ## License
 
