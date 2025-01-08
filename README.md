@@ -4,7 +4,8 @@ Submitted by: **Daisy Fernandez-Reyes**
 
 **Codepath IOS Prework** is an app thats main purpose and funcitonality is to familiarize the programmer (me)-  with the X Code environment while developing a IOS applicaiton that displays user name, instituion, and professional role (dream or current role). 
 
-Time spent: **8** hours spent in total
+### Time spent: **8** hours spent in total. 
+
 Of the eight hours, 2-3 were spent developing and finalizing the prework application and the rest was 
 spent familiarizing myself with the editor- specifically source control. 
 
