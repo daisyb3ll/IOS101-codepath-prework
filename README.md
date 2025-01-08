@@ -51,7 +51,7 @@ I'd like ot be able to develop one day!
 ## Notes
 Building the app was very simple - the pre-work guide was super helpful, so I didn't have too many issues with the project itself. 
 I did however have issues with the Github repository and learning to commit,push, pull, and fetch with the Xcode source control, but I 
-found a nice guide online- hooray! [online x code github guide] (https://medium.com/@nkemaiyetin/how-to-create-new-repos-in-xcode-f1f41b98dd09)
+found a nice guide online- hooray! [online x code github guide](https://medium.com/@nkemaiyetin/how-to-create-new-repos-in-xcode-f1f41b98dd09)
 
 ## License
 
