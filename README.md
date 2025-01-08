@@ -13,14 +13,11 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+A link to my submission walkthrough can be found [here](https://www.loom.com/share/e432be0acc9949f28f820d9fededfd4d?sid=240705b6-c23d-4091-ac75-1fcc870e3756). 
 
 ##future improvements:
-**Some ideas to improve the app are:**
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Implement a way to change the color of the text as well
+For future app improvements,I'd like to work towards developing a loading screen on launch, and make it so that the main screen's fonts also
+changed with the color. 
 
 ## App Brainstorming (Step 4)
 my favorite apps are: 
